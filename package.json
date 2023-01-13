@@ -1,0 +1,26 @@
+{
+  "name": "gp-tools",
+  "version": "1.0.0",
+  "description": "Common Tool Functions",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack build --config ./webpack.config.js",
+    "gulp": "gulp"
+  },
+  "keywords": [],
+  "author": "gphp_007@126.com",
+  "homepage": "https://github.com/gphp0071201/gp-tools",
+  "bugs": {
+    "url": "https://github.com/gphp0071201/gp-tools/issues",
+    "email": "gphp_007@126.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gphp0071201/gp-tools.git"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

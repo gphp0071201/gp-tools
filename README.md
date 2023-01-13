@@ -5,7 +5,7 @@ Some commonly used js tool functions
 ### Usage
 
 ```javascript
-import { Utils, Verify } from 'gp_tools'
+import { Utils, Verify } from 'gp-tools'
 
 console.log(Verify.isNumber(123)) // true
 
